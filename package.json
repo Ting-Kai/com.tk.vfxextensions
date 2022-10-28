@@ -1,0 +1,11 @@
+{
+  "author": "tk",
+  "description": "VFX Tools for Unity",
+  "displayName": "TK VFX Tool",
+  "keywords": [
+    "unity"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "com.tk.vfxextensions",
+  "version": "1.0.0"
+}
