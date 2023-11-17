@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.VFX;
 using UnityEngine.VFX.Utility;
 
-[VFXBinder("Custum/DepthBinder")]
+[VFXBinder("Custom/DepthBinder")]
 public class DepthBinder : VFXBinderBase
 {
     public CalaculBound calaculBound;
