@@ -6,7 +6,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: UV2Position
+  m_Name: UV2position
   m_Graph: {fileID: 114350483966674976}
   m_Infos:
     m_RendererSettings:
@@ -32,7 +32,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: UV2Position
+  m_Name: UV2position
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -161,7 +161,7 @@ MonoBehaviour:
     x: 688
     y: -400
     width: 2197
-    height: 953
+    height: 570
 --- !u!114 &114350483966674998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -211,7 +211,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 114350483966674999}
       inputSlot: {fileID: 114350483966675112}
-    position: {x: 1952.8, y: 233.59999}
+    position: {x: 1875.2, y: -148.8}
     expandedSlots: []
     expanded: 0
 --- !u!114 &114350483966674999
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   m_OutputSlots: []
   m_ExposedName: particlePos
   m_Exposed: 0
-  m_Order: 2
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -1851,7 +1851,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 2190, y: -80}
+  m_UIPosition: {x: 2145, y: -228}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -2178,7 +2178,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 114350483966675212}
       inputSlot: {fileID: 114350483966675111}
-    position: {x: 1888.8, y: -54.399998}
+    position: {x: 1843.2, y: -202.40001}
     expandedSlots:
     - {fileID: 114350483966675209}
     expanded: 0
